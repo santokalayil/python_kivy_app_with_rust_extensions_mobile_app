@@ -1,1 +1,0 @@
-# python_kivy_app_with_rust_extensions_mobile_app
